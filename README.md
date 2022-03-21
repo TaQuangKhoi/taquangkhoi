@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+### Badges <!-- learn below section from username=esin -->
+![](https://komarev.com/ghpvc/?username=taquangkhoi)
+
 <!-- learn below section from username=langhuihui -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi)](https://github.com/anuraghazra/github-readme-stats)
