@@ -22,5 +22,8 @@ Here are some ideas to get you started:
 ### Badges <!-- learn below section from username=esin -->
 ![](https://komarev.com/ghpvc/?username=taquangkhoi)
 
+<!-- learn below section from username=palakshivlani-11 -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=taquangkhoi" alt="Keios's Github Stats" width="60%">
+
 <!-- learn below section from username=langhuihui -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi)](https://github.com/anuraghazra/github-readme-stats)
