@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Badges <!-- learn below section from username=esin -->
+<!-- count from Mar 21, 2022 -->
 ![](https://komarev.com/ghpvc/?username=taquangkhoi)
 
 <!-- learn below section from username=palakshivlani-11 -->
