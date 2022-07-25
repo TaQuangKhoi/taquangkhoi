@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋
 - 🌱 I’m currently learning C#, Javascript, HTML, CSS
 - 🔭 I’m currently studying on Ba Ria Vung Tau University...
@@ -24,7 +26,11 @@ Here are some ideas to get you started:
 
 ### Badges <!-- learn below section from username=esin -->
 <!-- count from Mar 21, 2022 -->
-![](https://komarev.com/ghpvc/?username=taquangkhoi)
+<div align = "center">
+
+![Profile views](https://komarev.com/ghpvc/?username=taquangkhoi)
+
+</div>
 
 <!-- learn below section from username=palakshivlani-11 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=taquangkhoi" alt="Keios's Github Stats" width="60%">
