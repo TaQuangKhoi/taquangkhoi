@@ -32,13 +32,19 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- learn below section from username=palakshivlani-11 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=taquangkhoi" alt="Keios's Github Stats" width="60%">
+  <div align="left" class="left-panel">
 
-<!-- learn below section from username=langhuihui -->
+  <!-- learn Stats section from username=palakshivlani-11 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=taquangkhoi" alt="Keios's Github Stats" width="60%">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&" alt="taquangkhoi-streak-stats" />
+
+</div>
+
+<!-- learn Programming Languages section from username=langhuihui -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&" alt="taquangkhoi-streak-stats" />
+
 
 <!-- learn below section from username=youuss -->
 ![Keios's contribution graph](https://activity-graph.herokuapp.com/graph?username=TaQuangKhoi)
