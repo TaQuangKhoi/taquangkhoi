@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&" alt="taquangkhoi-streak-stats" />
+
+<!-- learn below section from username=youuss -->
+![Keios's contribution graph](https://activity-graph.herokuapp.com/graph?username=TaQuangKhoi)
