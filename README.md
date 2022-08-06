@@ -20,7 +20,7 @@
   - a Windows App for Napkin.one, to capture quick thought
   - an Android App for Napkin.one :)
 - I'm studying UE5 with my friend - Bui Ngoc Tam
-# My Skill
+# 🥰 My Skill
 
 <!--
 **TaQuangKhoi/taquangkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,20 +36,22 @@ Here are some ideas to get you started:
 
 # 🪴 Github Stats <!-- learn below section from username=esin -->
 
+## 💫 Achievement
+<div align="left" class="left-panel">
 
-  <div align="left" class="left-panel">
-
-  <!-- learn Stats section from username=palakshivlani-11 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=taquangkhoi" alt="Keios's Github Stats" width="60%">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&" alt="taquangkhoi-streak-stats" />
+<!-- learn Stats section from username=palakshivlani-11 -->
+<img src="https://github-readme-stats.vercel.app/api?username=taquangkhoi" alt="Keios's Github Stats" width="60%">
 
 </div>
 
-<!-- learn Programming Languages section from username=langhuihui -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!-- learn below section from username=youuss -->
 ![Keios's contribution graph](https://activity-graph.herokuapp.com/graph?username=TaQuangKhoi)
+
+## 💪 Every Day Effort
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&" alt="taquangkhoi-streak-stats" />
+
+## Languages Learning
+
+<!-- learn Programming Languages section from username=langhuihui -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi&locale=en)](https://github.com/anuraghazra/github-readme-stats)
