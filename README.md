@@ -2,6 +2,14 @@
 
 <h1 align="center"> I'm a mobile development student at the Ba Ria Vung Tau University! 👋 </h1>
 
+<!-- count from Mar 21, 2022 -->
+<div align = "center">
+
+![Profile views](https://komarev.com/ghpvc/?username=taquangkhoi)
+
+</div>
+
+# My Status
 - 🌱 I’m currently learning C#, Javascript, HTML, CSS
 - 🔭 I’m currently studying on Ba Ria Vung Tau University...
 - 📝 I'm using RemNote for learing and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
@@ -12,7 +20,7 @@
   - a Windows App for Napkin.one, to capture quick thought
   - an Android App for Napkin.one :)
 - I'm studying UE5 with my friend - Bui Ngoc Tam
-
+# My Skill
 
 <!--
 **TaQuangKhoi/taquangkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,12 +35,7 @@ Here are some ideas to get you started:
 -->
 
 ### Badges <!-- learn below section from username=esin -->
-<!-- count from Mar 21, 2022 -->
-<div align = "center">
 
-![Profile views](https://komarev.com/ghpvc/?username=taquangkhoi)
-
-</div>
 
   <div align="left" class="left-panel">
 
