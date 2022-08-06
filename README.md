@@ -21,8 +21,7 @@
 - I'm studying UE5 with my friend - Bui Ngoc Tam
 
 # 🥰 My Skill
-
- ###  Programming languages
+##  Programming languages
 
 <p align="left"> 
   &emsp;
@@ -80,8 +79,8 @@
 	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-
-###  Databases
+<!--
+## Databases
 <p align="left">
   &emsp;
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -90,7 +89,7 @@
   &emsp;
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
    </p>
-   
+-->
 
 <!--
 **TaQuangKhoi/taquangkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
