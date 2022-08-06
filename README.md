@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Badges <!-- learn below section from username=esin -->
+# 🪴 Github Stats <!-- learn below section from username=esin -->
 
 
   <div align="left" class="left-panel">
