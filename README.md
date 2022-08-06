@@ -126,8 +126,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- learn below section from username=youuss -->
-
-![Keios's contribution graph](https://activity-graph.herokuapp.com/graph?username=TaQuangKhoi)
+<img src="https://activity-graph.herokuapp.com/graph?username=TaQuangKhoi" alt="Keios's Github Stats" width="60%">
 
 ## 💪 Every Day Effort
 
