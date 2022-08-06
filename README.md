@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub Profile! I'm Keios Starqua (Vietnamese name : Tạ Quang Khôi)
 
-<h1 align="center"> I'm a mobile development student at the Ba Ria Vung Tau University! 👋 </h1>
+<h1 align="center"> 🔭 I'm a mobile development student <br> at the Ba Ria Vung Tau University! 👋 </h1>
 
 <!-- count from Mar 21, 2022 -->
 <div align = "center">
@@ -11,7 +11,6 @@
 
 # My Status
 - 🌱 I’m currently learning C#, Javascript, HTML, CSS
-- 🔭 I’m currently studying on Ba Ria Vung Tau University...
 - 📝 I'm using RemNote for learing and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻I'm developing
