@@ -10,6 +10,7 @@
 </div>
 
 # My Status
+
 - 🌱 I’m currently learning C#, Javascript, HTML, CSS
 - 📝 I'm using RemNote for learing and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
@@ -21,30 +22,32 @@
 - I'm studying UE5 with my friend - Bui Ngoc Tam
 
 # 🥰 My Skill
-##  Programming languages
 
-<p align="left"> 
-  &emsp;
+## Programming languages
+
+<p align="left">
+&emsp;
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/
-  &emsp;
+&emsp;
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  &emsp;
- <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  &emsp;
-  <a href="https://www.python.org/" target="_blank">
-   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-    &emsp;
-  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-      &emsp;
+&emsp;
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+&emsp;
+<a href="https://www.python.org/" target="_blank">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+&emsp;
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+&emsp;
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-   &emsp;
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-	   &emsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+&emsp;
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+&emsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-###  Frontend Development
+## Frontend Development
+
 <p align="left"> 
   &emsp; 
 	<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
@@ -60,10 +63,11 @@
   	<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 </p>
 
-###  Backend Development
-<p align="left"> 
-  &emsp; 
-	<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>  
+<!--
+## Backend Development
+<p align="left">
+  &emsp;
+	<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
   &emsp;
 	<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   &emsp;
@@ -72,8 +76,10 @@
   	<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
 </p>
+-->
 
-##   Mobile Development
+## Mobile Development
+
 <p align="left"> 
   &emsp; 
 	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -106,6 +112,7 @@ Here are some ideas to get you started:
 #🪴 Github Stats <!-- learn below section from username=esin -->
 
 ## 💫 Achievement
+
 <div align="left" class="left-panel">
 
 <!-- learn Stats section from username=palakshivlani-11 -->
@@ -114,6 +121,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- learn below section from username=youuss -->
+
 ![Keios's contribution graph](https://activity-graph.herokuapp.com/graph?username=TaQuangKhoi)
 
 ## 💪 Every Day Effort
@@ -123,4 +131,5 @@ Here are some ideas to get you started:
 ## Languages Learning
 
 <!-- learn Programming Languages section from username=langhuihui -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi&locale=en)](https://github.com/anuraghazra/github-readme-stats)
