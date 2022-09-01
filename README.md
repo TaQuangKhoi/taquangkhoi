@@ -19,7 +19,6 @@
   - a plugin [remnote-embed-web](https://github.com/TaQuangKhoi/remnote-embed-website-plugin) for RemNote
   - a Windows App for Napkin.one, to capture quick thought
   - an Android App for Napkin.one :)
-- I'm studying UE5 with my friend - Bui Ngoc Tam
 
 # 🥰 My Skill
 
