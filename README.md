@@ -18,6 +18,7 @@
   - an Android App for [Napkin](https://napkin.one/) to send a quick thought or quote
   - a plugin [remnote-embed-web](https://github.com/TaQuangKhoi/remnote-embed-website-plugin) for RemNote
   - a Windows App for Napkin.one, to capture quick thought
+- Buy me a Coffee : https://ko-fi.com/taquangkhoi
 
 # 🥰 My Skill
 
