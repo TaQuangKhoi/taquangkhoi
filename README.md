@@ -130,24 +130,6 @@ Here are some ideas to get you started:
 
 # 🪴 Github Stats <!-- learn below section from username=esin -->
 
-## 💫 Achievement
-
-<div align="left" class="left-panel">
-
-<!-- learn Stats section from username=palakshivlani-11 -->
-<img src="https://github-readme-stats.vercel.app/api?username=taquangkhoi" alt="Keios's Github Stats" width="60%">
-
-</div>
-
-<!-- learn below section from username=youuss -->
-<img src="https://activity-graph.herokuapp.com/graph?username=TaQuangKhoi" alt="Keios's Github Stats" width="60%">
-
 ## 💪 Every Day Effort
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&" alt="taquangkhoi-streak-stats" />
-
-## Languages Learning
-
-<!-- learn Programming Languages section from username=langhuihui -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi&locale=en)](https://github.com/anuraghazra/github-readme-stats)
