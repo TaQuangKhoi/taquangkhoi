@@ -11,7 +11,7 @@
 
 # My Status
 
-- 🌱 I’m currently learning C#, Javascript, HTML, CSS
+- 🌱 I’m currently learning Java, Groovy, Lua
 - 📝 I'm using RemNote for learing and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻I'm developing
@@ -129,6 +129,17 @@ Here are some ideas to get you started:
 <br>
 
 # 🪴 Github Stats <!-- learn below section from username=esin -->
+
+<!-- Copy từ bongudth nè -->
+
+<div align="left">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taquangkhoi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673" alt="bongudth-github-stats" />
+
+</div>
+
+<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=taquangkhoi&show_icons=true&hide_border=false&line_height=25&title_color=f69673&icon_color=e2a7a2&show_owner=true"/>
+<br>
 
 ## 💪 Every Day Effort
 
