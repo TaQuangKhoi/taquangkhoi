@@ -134,13 +134,20 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taquangkhoi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673" alt="bongudth-github-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taquangkhoi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673"
+     alt="taquangkhoi-top-langs"
+/>
 
 </div>
 
-<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=taquangkhoi&show_icons=true&hide_border=false&line_height=25&title_color=f69673&icon_color=e2a7a2&show_owner=true"/>
+<img width="400"
+     height="200"
+     src="https://github-readme-stats.vercel.app/api?username=taquangkhoi&show_icons=true&hide_border=false&line_height=25&title_color=f69673&icon_color=e2a7a2&show_owner=true"
+     alt="taquangkhoi-github-stats"
+/>
+
 <br>
 
-## 💪 Every Day Effort
+# 💪 Every Day Effort
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&" alt="taquangkhoi-streak-stats" />
