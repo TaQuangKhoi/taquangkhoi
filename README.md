@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taquangkhoi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taquangkhoi&show_icons=true&locale=en&line_height=20&title_color=f69673"
      alt="taquangkhoi-top-langs"
 />
 
