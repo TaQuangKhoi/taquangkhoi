@@ -128,9 +128,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-# 🪴 Github Stats <!-- learn below section from username=esin -->
-
-<!-- Copy từ bongudth nè -->
+<!-- # 🪴 Github Stats
 
 <div align="left">
 
@@ -146,7 +144,7 @@ Here are some ideas to get you started:
      alt="taquangkhoi-github-stats"
 />
 
-<br>
+<br> -->
 
 # 💪 Every Day Effort
 
