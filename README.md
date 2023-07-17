@@ -16,7 +16,6 @@
 - 😄 Pronouns: He/Him
 - 👨‍💻I'm developing
   - a plugin [remnote-embed-web](https://github.com/TaQuangKhoi/remnote-embed-website-plugin) for RemNote
-  - a Windows App for Napkin.one, to capture quick thought
 - Buy me a Coffee : https://ko-fi.com/taquangkhoi
 
 # 🥰 My Skill
