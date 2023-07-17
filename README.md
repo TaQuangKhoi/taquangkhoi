@@ -11,7 +11,7 @@
 
 # My Status
 
-- 🌱 I’m currently learning **ASP.NET Core MVC**, Java, Groovy, Lua, Hook Android App
+- 🌱 I’m currently learning Flutter, Groovy
 - 📝 I'm using RemNote for learing and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻I'm developing
