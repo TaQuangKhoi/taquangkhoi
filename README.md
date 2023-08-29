@@ -12,6 +12,7 @@
 # 🤘My Status
 
 - 🌱 I’m currently learning Flutter, Django, Groovy
+- I''m working at [True Tech](https://truetech.com.vn/en/homepage/)
 - 📝 I'm using RemNote for learing and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻I'm developing
