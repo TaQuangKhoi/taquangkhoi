@@ -144,7 +144,3 @@ Here are some ideas to get you started:
 />
 
 <br> -->
-
-# 💪 Every Day Effort
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&" alt="taquangkhoi-streak-stats" />
