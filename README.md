@@ -127,17 +127,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
 <br>
 
-<!-- # 🪴 Github Stats
+# 🪴 Github Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaQuangKhoi)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taquangkhoi&show_icons=true&locale=en&line_height=20&title_color=f69673"
      alt="taquangkhoi-top-langs"
 />
-
 </div>
 
 <img width="400"
