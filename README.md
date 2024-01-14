@@ -1,5 +1,3 @@
-<!-- Tôi Khôi thật sự rất nhớ Hảo Văn, mong rằng những bài hát Khôi viết cho Hảo không mãi chỉ là demo -->
-
 ### Hi there 👋 Welcome to my GitHub Profile! I'm Keios Starqua (Vietnamese name : Tạ Quang Khôi)
 
 <h1 align="center"> 🔭 I'm a mobile development student <br> at the Ba Ria Vung Tau University! 👋 </h1>
