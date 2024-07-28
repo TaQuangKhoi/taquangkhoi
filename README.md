@@ -12,7 +12,6 @@
 # 🤘My Status
 
 - 🌱 I’m currently learning Algorithm with [Hello, Algo](https://www.hello-algo.com)
-- 🏢 I'm working for [Công ty TNHH Công nghệ Niềm Tin – True Technology Co., Ltd](https://truetech.com.vn/en/homepage/)
 - 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
