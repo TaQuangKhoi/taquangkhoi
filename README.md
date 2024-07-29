@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub Profile! I'm Keios Starqua (Vietnamese name : Tạ Quang Khôi)
 
-<h1 align="center"> 🔭 I graduated in Mobile Development from Ba Ria Vung Tau University! 👋 </h1>
+<h1 align="center"> 🔭 I graduated in Mobile and Game Development from Ba Ria Vung Tau University! 👋 </h1>
 
 <!-- count from Mar 21, 2022 -->
 <div align = "center">
