@@ -132,6 +132,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaQuangKhoi)](https://github.com/anuraghazra/github-readme-stats)
 
+![Contribution Graph Đỗ Quyên](https://github-readme-activity-graph.vercel.app/graph?username=taquangkhoi&theme=github-compact&days=30)
+
 <!--
 <div align="left">
 
