@@ -50,10 +50,9 @@
 	<!-- C Sharp -->
 	<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 	&emsp;
-	<!-- Groovy -->
-	<img src="https://groovy-lang.org/img/xfavicon.ico.pagespeed.ic.96ap4i0o5w.webp"/>
-	&emsp;
 </p>
+		
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
 ## Frontend Development
 
