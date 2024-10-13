@@ -15,7 +15,9 @@
 - 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
-  - [TwoDB](https://github.com/TaQuangKhoi/twodb) - A Tool to migrate data from one database another database of the same software
+  - In Concept for a software to make PowerPoint slide with Crossword puzzle game inside. To suppot my Chemistry teacher  
+  - [TwoDB](https://github.com/TaQuangKhoi/twodb) - A Tool to migrate data from one database to another database of the same software
+  - [TaraFiFo](https://github.com/TaQuangKhoi/TaraFiFo) - Organize file in your computer. Try all my effort to integrate an AI to this software
 - 🫂 I'm contributing
   - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 - Buy me a Coffee : [https://ko-fi.com/taquangkhoi](https://ko-fi.com/taquangkhoi)
