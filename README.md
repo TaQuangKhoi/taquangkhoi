@@ -15,7 +15,7 @@
 - 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
-  - In Concept for a software to make PowerPoint slide with Crossword puzzle game inside. To suppot my Chemistry teacher  
+  - [Clagamex](https://github.com/TaQuangKhoi/Clagamex) - an Office add-in to make PowerPoint slide with Crossword puzzle game inside. To suppot my Chemistry teacher  
   - [TwoDB](https://github.com/TaQuangKhoi/twodb) - A Tool to migrate data from one database to another database of the same software
   - [TaraFiFo](https://github.com/TaQuangKhoi/TaraFiFo) - Organize file in your computer. Try all my effort to integrate an AI to this software
 - 🫂 I'm contributing
