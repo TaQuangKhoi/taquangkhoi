@@ -22,6 +22,11 @@
   - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 - Buy me a Coffee : [https://ko-fi.com/taquangkhoi](https://ko-fi.com/taquangkhoi)
 
+# ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. ❤️ Loving her
+<!--END_SECTION:activity-->
+
 # 🥰 My Skill
 
 ## Programming languages
