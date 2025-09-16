@@ -24,7 +24,7 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/TensorBlock/awesome-mcp-servers/issues/38#issuecomment-3289169171) in [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)
+1. 🗣 Commented on [#263](https://github.com/github/spec-kit/issues/263#issuecomment-3292865476) in [github/spec-kit](https://github.com/github/spec-kit)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
