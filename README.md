@@ -24,7 +24,7 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/github/spec-kit/issues/263#issuecomment-3292865476) in [github/spec-kit](https://github.com/github/spec-kit)
+1. 🗣 Commented on [#378](https://github.com/github/spec-kit/issues/378#issuecomment-3314672787) in [github/spec-kit](https://github.com/github/spec-kit)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
