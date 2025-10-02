@@ -24,7 +24,7 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/TaQuangKhoi/twodb/pull/3) in [TaQuangKhoi/twodb](https://github.com/TaQuangKhoi/twodb)
+1. ❗ Opened issue [#8](https://github.com/sanzu0609/student-management/issues/8) in [sanzu0609/student-management](https://github.com/sanzu0609/student-management)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
