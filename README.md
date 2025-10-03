@@ -24,7 +24,7 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/sanzu0609/student-management/issues/8) in [sanzu0609/student-management](https://github.com/sanzu0609/student-management)
+1. 🗣 Commented on [#62](https://github.com/marmelab/shadcn-admin-kit/issues/62#issuecomment-3362338644) in [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
