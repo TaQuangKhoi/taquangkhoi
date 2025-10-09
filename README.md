@@ -24,7 +24,7 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/marmelab/shadcn-admin-kit/issues/62#issuecomment-3362338644) in [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit)
+1. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-dspy/pull/1) in [TaQuangKhoi/learn-dspy](https://github.com/TaQuangKhoi/learn-dspy)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
