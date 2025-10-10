@@ -25,7 +25,7 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/DoNguyenKevin/kentakitris/issues/15#issuecomment-3390602296) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. 🎉 Merged PR [#16](https://github.com/DoNguyenKevin/kentakitris/pull/16) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
