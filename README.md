@@ -25,13 +25,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/DoNguyenKevin/kentakitris/issues/20) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-2. 🔒 Closed issue [#8](https://github.com/DoNguyenKevin/kentakitris/issues/8) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-3. 🎉 Merged PR [#18](https://github.com/DoNguyenKevin/kentakitris/pull/18) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-4. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
-5. ❗ Opened issue [#19](https://github.com/DoNguyenKevin/kentakitris/issues/19) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-6. Do Quyen 6
-7. Do Quyen 7
+1. ❗ Opened issue [#22](https://github.com/DoNguyenKevin/kentakitris/issues/22) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+2. ❗ Opened issue [#20](https://github.com/DoNguyenKevin/kentakitris/issues/20) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+3. 🔒 Closed issue [#8](https://github.com/DoNguyenKevin/kentakitris/issues/8) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+4. 🎉 Merged PR [#18](https://github.com/DoNguyenKevin/kentakitris/pull/18) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+5. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
+6. ❗ Opened issue [#19](https://github.com/DoNguyenKevin/kentakitris/issues/19) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+7. 🎉 Merged PR [#16](https://github.com/DoNguyenKevin/kentakitris/pull/16) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
