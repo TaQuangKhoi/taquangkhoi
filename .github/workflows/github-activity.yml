@@ -19,8 +19,8 @@ jobs:
           GH_USERNAME: TaQuangKhoi
           COMMIT_NAME: Tạ Quang Khôi
           COMMIT_MSG: |
-            ⚡ Đỗ Quyên Update README with the recent activity
+            "⚡ Đỗ Quyên Update README with the recent activity
             
-            Co-authored-by: Đỗ Quyên <quyendo.07122006@gmail.com> 
+            Co-authored-by: Đỗ Quyên <quyendo.07122006@gmail.com>"
           COMMIT_EMAIL: khoi0941@gmail.com
           MAX_LINES: 5
