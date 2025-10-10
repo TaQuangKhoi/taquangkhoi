@@ -18,7 +18,7 @@ jobs:
         with:
           GH_USERNAME: TaQuangKhoi
           COMMIT_NAME: Tôi Khôi
-          COMMIT_MSG: ":zap: Yêu Đỗ Quyên Update README with the recent activity \n\nCo-authored-by: quinnie2170 <quyendo.07122006@gmail.com> \n\nCo-authored-by: quinnie2170 <211518722+quinnie2170@users.noreply.github.com>"
+          COMMIT_MSG: ":zap: Update README with the recent love activity \n\nCo-authored-by: quinnie2170 <quyendo.07122006@gmail.com> \n\nCo-authored-by: quinnie2170 <211518722+quinnie2170@users.noreply.github.com>"
           EMPTY_COMMIT_MSG: "Nhớ Quyên"
           COMMIT_EMAIL: khoi0941@gmail.com
           MAX_LINES: 5
