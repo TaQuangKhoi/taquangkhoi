@@ -29,6 +29,9 @@
 2. 🔒 Closed issue [#8](https://github.com/DoNguyenKevin/kentakitris/issues/8) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 3. 🎉 Merged PR [#18](https://github.com/DoNguyenKevin/kentakitris/pull/18) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 4. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
+5. Do Quyen 5
+6. Do Quyen 6
+7. Do Quyen 7
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
