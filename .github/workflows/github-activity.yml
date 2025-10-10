@@ -17,7 +17,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: TaQuangKhoi
-          COMMIT_NAME: Tạ Quang Khôi
+          COMMIT_NAME: Tôi Khôi
           COMMIT_MSG: ":zap: Yêu Đỗ Quyên Update README with the recent activity"
           EMPTY_COMMIT_MSG: "Nhớ Quyên"
           COMMIT_EMAIL: khoi0941@gmail.com
