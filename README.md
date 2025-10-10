@@ -25,13 +25,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22](https://github.com/DoNguyenKevin/kentakitris/issues/22) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-2. ❗ Opened issue [#20](https://github.com/DoNguyenKevin/kentakitris/issues/20) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-3. 🔒 Closed issue [#8](https://github.com/DoNguyenKevin/kentakitris/issues/8) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-4. 🎉 Merged PR [#18](https://github.com/DoNguyenKevin/kentakitris/pull/18) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-5. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
-6. ❗ Opened issue [#19](https://github.com/DoNguyenKevin/kentakitris/issues/19) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-7. 🎉 Merged PR [#16](https://github.com/DoNguyenKevin/kentakitris/pull/16) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. 🗣 Commented on [#1](https://github.com/TaQuangKhoi/taquangkhoi/pull/1#issuecomment-3391424181) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+2. 🔒 Closed issue [#22](https://github.com/DoNguyenKevin/kentakitris/issues/22) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+3. 🎉 Merged PR [#25](https://github.com/DoNguyenKevin/kentakitris/pull/25) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+4. 🗣 Commented on [#17](https://github.com/DoNguyenKevin/kentakitris/issues/17#issuecomment-3391353798) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+5. 🗣 Commented on [#26](https://github.com/DoNguyenKevin/kentakitris/issues/26#issuecomment-3391338373) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+6. 🔒 Closed issue [#26](https://github.com/DoNguyenKevin/kentakitris/issues/26) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+7. 🗣 Commented on [#25](https://github.com/DoNguyenKevin/kentakitris/pull/25#issuecomment-3391320868) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
