@@ -25,7 +25,7 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/DoNguyenKevin/kentakitris/issues/19) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
