@@ -25,10 +25,10 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/DoNguyenKevin/kentakitris/issues/8) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-2. 🎉 Merged PR [#18](https://github.com/DoNguyenKevin/kentakitris/pull/18) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-3. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
-4. Do Quyen, Ich liebe Dich
+1. ❗ Opened issue [#20](https://github.com/DoNguyenKevin/kentakitris/issues/20) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+2. 🔒 Closed issue [#8](https://github.com/DoNguyenKevin/kentakitris/issues/8) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+3. 🎉 Merged PR [#18](https://github.com/DoNguyenKevin/kentakitris/pull/18) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+4. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
