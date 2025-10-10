@@ -67,6 +67,9 @@
 	<!-- Apache Groovy -->
 	<img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
  	&emsp;
+	<!-- Rust -->
+	<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+ 	&emsp;
 </p>
 
 ## Frontend Development
@@ -114,6 +117,9 @@
 <p align="left"> 
   &emsp; 
 	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  &emsp;
+	<!-- Flutter -->
+	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
 
 <!--
