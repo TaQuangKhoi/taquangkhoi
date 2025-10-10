@@ -26,6 +26,8 @@
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
+2. Do Quyen
+3. Bong
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
