@@ -25,9 +25,9 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
-2. ❗ Opened issue [#19](https://github.com/DoNguyenKevin/kentakitris/issues/19) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-3. 🎉 Merged PR [#16](https://github.com/DoNguyenKevin/kentakitris/pull/16) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. 🔒 Closed issue [#8](https://github.com/DoNguyenKevin/kentakitris/issues/8) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+2. 🎉 Merged PR [#18](https://github.com/DoNguyenKevin/kentakitris/pull/18) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+3. 🎉 Merged PR [#1](https://github.com/TaQuangKhoi/learn-pennylane/pull/1) in [TaQuangKhoi/learn-pennylane](https://github.com/TaQuangKhoi/learn-pennylane)
 <!--END_SECTION:activity-->
 
 # 🥰 My Skill
