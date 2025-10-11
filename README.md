@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TaQuangKhoi/taquangkhoi/pull/1#issuecomment-3391424181) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
-2. 🔒 Closed issue [#22](https://github.com/DoNguyenKevin/kentakitris/issues/22) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-3. 🎉 Merged PR [#25](https://github.com/DoNguyenKevin/kentakitris/pull/25) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-4. 🗣 Commented on [#17](https://github.com/DoNguyenKevin/kentakitris/issues/17#issuecomment-3391353798) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-5. 🗣 Commented on [#26](https://github.com/DoNguyenKevin/kentakitris/issues/26#issuecomment-3391338373) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-6. 🔒 Closed issue [#26](https://github.com/DoNguyenKevin/kentakitris/issues/26) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-7. 🗣 Commented on [#25](https://github.com/DoNguyenKevin/kentakitris/pull/25#issuecomment-3391320868) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. 🔒 Closed issue [#3](https://github.com/TaQuangKhoi/taquangkhoi/issues/3) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+2. 🎉 Merged PR [#4](https://github.com/TaQuangKhoi/taquangkhoi/pull/4) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+3. 🎉 Merged PR [#5](https://github.com/TaQuangKhoi/taquangkhoi/pull/5) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+4. 💪 Opened PR [#5](https://github.com/TaQuangKhoi/taquangkhoi/pull/5) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+5. 🎉 Merged PR [#33](https://github.com/DoNguyenKevin/kentakitris/pull/33) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+6. 💪 Opened PR [#33](https://github.com/DoNguyenKevin/kentakitris/pull/33) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+7. ❗ Opened issue [#32](https://github.com/DoNguyenKevin/kentakitris/issues/32) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
