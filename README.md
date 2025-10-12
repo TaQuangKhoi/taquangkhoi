@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#34](https://github.com/DoNguyenKevin/kentakitris/issues/34) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-2. 🎉 Merged PR [#35](https://github.com/DoNguyenKevin/kentakitris/pull/35) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-3. 🔒 Closed issue [#3](https://github.com/TaQuangKhoi/taquangkhoi/issues/3) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
-4. 🎉 Merged PR [#4](https://github.com/TaQuangKhoi/taquangkhoi/pull/4) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
-5. 🎉 Merged PR [#5](https://github.com/TaQuangKhoi/taquangkhoi/pull/5) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
-6. 💪 Opened PR [#5](https://github.com/TaQuangKhoi/taquangkhoi/pull/5) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
-7. 🎉 Merged PR [#33](https://github.com/DoNguyenKevin/kentakitris/pull/33) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. ❌ Closed PR [#36](https://github.com/DoNguyenKevin/kentakitris/pull/36) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+2. 🔒 Closed issue [#34](https://github.com/DoNguyenKevin/kentakitris/issues/34) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+3. 🎉 Merged PR [#35](https://github.com/DoNguyenKevin/kentakitris/pull/35) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+4. 🔒 Closed issue [#3](https://github.com/TaQuangKhoi/taquangkhoi/issues/3) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+5. 🎉 Merged PR [#4](https://github.com/TaQuangKhoi/taquangkhoi/pull/4) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+6. 🎉 Merged PR [#5](https://github.com/TaQuangKhoi/taquangkhoi/pull/5) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+7. 💪 Opened PR [#5](https://github.com/TaQuangKhoi/taquangkhoi/pull/5) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
