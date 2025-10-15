@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/DoNguyenKevin/kentakitris/issues/17) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-2.  Assigned issue [#17](https://github.com/DoNguyenKevin/kentakitris/issues/17) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-3. ❌ Closed PR [#36](undefined) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-4. 🔒 Closed issue [#34](https://github.com/DoNguyenKevin/kentakitris/issues/34) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-5.  Assigned issue [#34](https://github.com/DoNguyenKevin/kentakitris/issues/34) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-6. 🔒 Closed issue [#3](https://github.com/TaQuangKhoi/taquangkhoi/issues/3) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
-7. 💪 Opened PR [#5](undefined) in [TaQuangKhoi/taquangkhoi](https://github.com/TaQuangKhoi/taquangkhoi)
+1.  Assigned issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+2.  Unassigned issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+3. ❌ Closed PR [#47](undefined) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+4. 💪 Opened PR [#48](undefined) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+5.  Assigned issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+6. 💪 Opened PR [#46](undefined) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+7. ❗ Opened issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
