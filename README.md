@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#27](https://github.com/TaQuangKhoi/Napkin-Collect-Android/issues/27) in [TaQuangKhoi/Napkin-Collect-Android](https://github.com/TaQuangKhoi/Napkin-Collect-Android)
-2. ❗ Opened issue [#27](https://github.com/TaQuangKhoi/Napkin-Collect-Android/issues/27) in [TaQuangKhoi/Napkin-Collect-Android](https://github.com/TaQuangKhoi/Napkin-Collect-Android)
-3.  Assigned issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-4.  Unassigned issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-5. ❌ Closed PR [#47](undefined) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-6. 💪 Opened PR [#48](undefined) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-7.  Assigned issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. ❗ Opened issue [#68](https://github.com/DoNguyenKevin/kentakitris/issues/68) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+2. ❗ Opened issue [#67](https://github.com/DoNguyenKevin/kentakitris/issues/67) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+3. ❗ Opened issue [#61](https://github.com/DoNguyenKevin/kentakitris/issues/61) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+4.  Assigned issue [#27](https://github.com/TaQuangKhoi/Napkin-Collect-Android/issues/27) in [TaQuangKhoi/Napkin-Collect-Android](https://github.com/TaQuangKhoi/Napkin-Collect-Android)
+5. ❗ Opened issue [#27](https://github.com/TaQuangKhoi/Napkin-Collect-Android/issues/27) in [TaQuangKhoi/Napkin-Collect-Android](https://github.com/TaQuangKhoi/Napkin-Collect-Android)
+6.  Assigned issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+7.  Unassigned issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
