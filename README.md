@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-2.  Assigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1.  Assigned issue [#74](https://github.com/DoNguyenKevin/kentakitris/issues/74) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+2. 🔒 Closed issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 3.  Unassigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-4. ❌ Closed PR [#78](undefined) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+4.  Assigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 5.  Assigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-6. 🔒 Closed issue [#45](https://github.com/DoNguyenKevin/kentakitris/issues/45) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-7. ❗ Opened issue [#77](https://github.com/DoNguyenKevin/kentakitris/issues/77) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+6.  Unassigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+7. ❌ Closed PR [#78](undefined) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
