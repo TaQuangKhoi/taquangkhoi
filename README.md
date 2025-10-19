@@ -56,12 +56,12 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#76](https://github.com/DoNguyenKevin/kentakitris/issues/76) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-2. 🔒 Closed issue [#74](https://github.com/DoNguyenKevin/kentakitris/issues/74) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-3.  Assigned issue [#74](https://github.com/DoNguyenKevin/kentakitris/issues/74) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-4. 🔒 Closed issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-5.  Unassigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-6.  Assigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. 🔒 Closed issue [#76](https://github.com/DoNguyenKevin/kentakitris/issues/76) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+2.  Assigned issue [#76](https://github.com/DoNguyenKevin/kentakitris/issues/76) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+3. 🔒 Closed issue [#74](https://github.com/DoNguyenKevin/kentakitris/issues/74) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+4.  Assigned issue [#74](https://github.com/DoNguyenKevin/kentakitris/issues/74) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+5. 🔒 Closed issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+6.  Unassigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 7.  Assigned issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
