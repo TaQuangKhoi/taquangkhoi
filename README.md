@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/sanzu0609/IT-Service-App/issues/28#issuecomment-3431837782) in [sanzu0609/IT-Service-App](https://github.com/sanzu0609/IT-Service-App)
-2. 🗣 Commented on [#1](https://github.com/sanzu0609/IT-Service-App/issues/1#issuecomment-3419522159) in [sanzu0609/IT-Service-App](https://github.com/sanzu0609/IT-Service-App)
-3. 🔒 Closed issue [#76](https://github.com/DoNguyenKevin/kentakitris/issues/76) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-4.  Assigned issue [#76](https://github.com/DoNguyenKevin/kentakitris/issues/76) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-5. 🔒 Closed issue [#74](https://github.com/DoNguyenKevin/kentakitris/issues/74) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-6.  Assigned issue [#74](https://github.com/DoNguyenKevin/kentakitris/issues/74) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
-7. 🔒 Closed issue [#73](https://github.com/DoNguyenKevin/kentakitris/issues/73) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+1. 🗣 Commented on [#28](https://github.com/sanzu0609/IT-Service-App/issues/28#issuecomment-3441078094) in [sanzu0609/IT-Service-App](https://github.com/sanzu0609/IT-Service-App)
+2. 🗣 Commented on [#28](https://github.com/sanzu0609/IT-Service-App/issues/28#issuecomment-3440915877) in [sanzu0609/IT-Service-App](https://github.com/sanzu0609/IT-Service-App)
+3. 🗣 Commented on [#28](https://github.com/sanzu0609/IT-Service-App/issues/28#issuecomment-3431837782) in [sanzu0609/IT-Service-App](https://github.com/sanzu0609/IT-Service-App)
+4. 🗣 Commented on [#1](https://github.com/sanzu0609/IT-Service-App/issues/1#issuecomment-3419522159) in [sanzu0609/IT-Service-App](https://github.com/sanzu0609/IT-Service-App)
+5. 🔒 Closed issue [#76](https://github.com/DoNguyenKevin/kentakitris/issues/76) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+6.  Assigned issue [#76](https://github.com/DoNguyenKevin/kentakitris/issues/76) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
+7. 🔒 Closed issue [#74](https://github.com/DoNguyenKevin/kentakitris/issues/74) in [DoNguyenKevin/kentakitris](https://github.com/DoNguyenKevin/kentakitris)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
