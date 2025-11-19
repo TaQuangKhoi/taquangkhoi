@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#3](https://github.com/GamiClass/gamiclass/issues/3) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-2. 🔓 Reopened issue [#1](https://github.com/GamiClass/gamiclass/issues/1) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-3. 🔒 Closed issue [#1](https://github.com/GamiClass/gamiclass/issues/1) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-4.  Assigned issue [#1](https://github.com/GamiClass/gamiclass/issues/1) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-5. 🔒 Closed issue [#2](https://github.com/GamiClass/gamiclass/issues/2) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-6.  Assigned issue [#2](https://github.com/GamiClass/gamiclass/issues/2) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-7. ❗ Opened issue [#2](https://github.com/GamiClass/gamiclass/issues/2) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
+1. 🔒 Closed issue [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
+2. 🗣 Commented on [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38#issuecomment-3550604552) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
+3.  Assigned issue [#3](https://github.com/GamiClass/gamiclass/issues/3) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
+4. 🔓 Reopened issue [#1](https://github.com/GamiClass/gamiclass/issues/1) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
+5. 🔒 Closed issue [#1](https://github.com/GamiClass/gamiclass/issues/1) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
+6.  Assigned issue [#1](https://github.com/GamiClass/gamiclass/issues/1) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
+7. 🔒 Closed issue [#2](https://github.com/GamiClass/gamiclass/issues/2) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
