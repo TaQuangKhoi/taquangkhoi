@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/GamiClass/gamiclass/issues/3) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-2.  Assigned issue [#7](https://github.com/GamiClass/gamiclass/issues/7) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-3. ❗ Opened issue [#7](https://github.com/GamiClass/gamiclass/issues/7) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-4. 🔒 Closed issue [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
-5. 🗣 Commented on [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38#issuecomment-3550604552) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
-6.  Assigned issue [#3](https://github.com/GamiClass/gamiclass/issues/3) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
-7. 🔓 Reopened issue [#1](https://github.com/GamiClass/gamiclass/issues/1) in [GamiClass/gamiclass](https://github.com/GamiClass/gamiclass)
+1. 🗣 Commented on [#247](https://github.com/vercel/ai-elements/issues/247#issuecomment-3576777404) in [vercel/ai-elements](https://github.com/vercel/ai-elements)
+2. ❌ Closed PR [#1](undefined) in [TaQuangKhoi/ai-elements](https://github.com/TaQuangKhoi/ai-elements)
+3. 🔒 Closed issue [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
+4. 🗣 Commented on [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38#issuecomment-3550604552) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
+5. 💪 Opened PR [#166](undefined) in [TaQuangKhoi/com.keistar.ui](https://github.com/TaQuangKhoi/com.keistar.ui)
+6. ❌ Closed PR [#164](undefined) in [TaQuangKhoi/com.keistar.ui](https://github.com/TaQuangKhoi/com.keistar.ui)
+7. ❌ Assigned PR [#164](undefined) in [TaQuangKhoi/com.keistar.ui](https://github.com/TaQuangKhoi/com.keistar.ui)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
