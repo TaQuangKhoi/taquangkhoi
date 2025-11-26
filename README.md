@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247](https://github.com/vercel/ai-elements/issues/247#issuecomment-3576777404) in [vercel/ai-elements](https://github.com/vercel/ai-elements)
-2. ❌ Closed PR [#1](undefined) in [TaQuangKhoi/ai-elements](https://github.com/TaQuangKhoi/ai-elements)
-3. 🔒 Closed issue [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
-4. 🗣 Commented on [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38#issuecomment-3550604552) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
-5. 💪 Opened PR [#166](undefined) in [TaQuangKhoi/com.keistar.ui](https://github.com/TaQuangKhoi/com.keistar.ui)
-6. ❌ Closed PR [#164](undefined) in [TaQuangKhoi/com.keistar.ui](https://github.com/TaQuangKhoi/com.keistar.ui)
-7. ❌ Assigned PR [#164](undefined) in [TaQuangKhoi/com.keistar.ui](https://github.com/TaQuangKhoi/com.keistar.ui)
+1. ❌ Closed PR [#2](undefined) in [TRUE-TECH/trueeam-core-docs](https://github.com/TRUE-TECH/trueeam-core-docs)
+2.  Assigned issue [#1](https://github.com/TRUE-TECH/trueeam-core-docs/issues/1) in [TRUE-TECH/trueeam-core-docs](https://github.com/TRUE-TECH/trueeam-core-docs)
+3. ❗ Opened issue [#1](https://github.com/TRUE-TECH/trueeam-core-docs/issues/1) in [TRUE-TECH/trueeam-core-docs](https://github.com/TRUE-TECH/trueeam-core-docs)
+4. 🗣 Commented on [#247](https://github.com/vercel/ai-elements/issues/247#issuecomment-3576777404) in [vercel/ai-elements](https://github.com/vercel/ai-elements)
+5. ❌ Closed PR [#1](undefined) in [TaQuangKhoi/ai-elements](https://github.com/TaQuangKhoi/ai-elements)
+6. 🔒 Closed issue [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
+7. 🗣 Commented on [#38](https://github.com/TaQuangKhoi/com.keistar/issues/38#issuecomment-3550604552) in [TaQuangKhoi/com.keistar](https://github.com/TaQuangKhoi/com.keistar)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
