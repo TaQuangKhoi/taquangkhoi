@@ -56,13 +56,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8357](https://github.com/streetwriters/notesnook/issues/8357#issuecomment-3613575354) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
-2. ❗ Opened issue [#2](https://github.com/nguyenthienminh01/AI-JACKPOT/issues/2) in [nguyenthienminh01/AI-JACKPOT](https://github.com/nguyenthienminh01/AI-JACKPOT)
-3. ❗ Opened issue [#1](https://github.com/nguyenthienminh01/AI-JACKPOT/issues/1) in [nguyenthienminh01/AI-JACKPOT](https://github.com/nguyenthienminh01/AI-JACKPOT)
-4. 🗣 Commented on [#7](https://github.com/streetwriters/notesnook/issues/7#issuecomment-3592996681) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
-5. 🗣 Commented on [#8971](https://github.com/streetwriters/notesnook/issues/8971#issuecomment-3592995677) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
-6. ❌ Closed PR [#2](undefined) in [TRUE-TECH/trueeam-core-docs](https://github.com/TRUE-TECH/trueeam-core-docs)
-7.  Assigned issue [#1](https://github.com/TRUE-TECH/trueeam-core-docs/issues/1) in [TRUE-TECH/trueeam-core-docs](https://github.com/TRUE-TECH/trueeam-core-docs)
+1. 🗣 Commented on [#4](https://github.com/oipoistar/tinta/issues/4#issuecomment-3625746224) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+2. 🔒 Closed issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+3. ❗ Opened issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+4. ❗ Opened issue [#3](https://github.com/oipoistar/tinta/issues/3) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+5. ❗ Opened issue [#2](https://github.com/oipoistar/tinta/issues/2) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+6. ❗ Opened issue [#1](https://github.com/oipoistar/tinta/issues/1) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+7. 🗣 Commented on [#8357](https://github.com/streetwriters/notesnook/issues/8357#issuecomment-3613575354) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
