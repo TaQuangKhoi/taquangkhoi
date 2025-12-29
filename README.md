@@ -24,7 +24,7 @@
   
 ## 🏆 GitHub Trophies
   
-<img src="https://github-profile-trophy.vercel.app/?username=taquangkhoi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-one-silk.vercel.app/?username=taquangkhoi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
