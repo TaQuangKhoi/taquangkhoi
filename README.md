@@ -38,13 +38,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649539390) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
-2. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649536389) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
-3. ❗ Opened issue [#1](https://github.com/BuiVanHoa/hi/issues/1) in [BuiVanHoa/hi](https://github.com/BuiVanHoa/hi)
-4. 🗣 Commented on [#4](https://github.com/oipoistar/tinta/issues/4#issuecomment-3625746224) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
-5. 🔒 Closed issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
-6. ❗ Opened issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
-7. ❗ Opened issue [#3](https://github.com/oipoistar/tinta/issues/3) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+1. 🎉 Merged PR [#5727](https://github.com/web-scrobbler/web-scrobbler/pull/5727) in [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
+2. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649539390) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
+3. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649536389) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
+4. ❗ Opened issue [#1](https://github.com/BuiVanHoa/hi/issues/1) in [BuiVanHoa/hi](https://github.com/BuiVanHoa/hi)
+5. 🗣 Commented on [#4](https://github.com/oipoistar/tinta/issues/4#issuecomment-3625746224) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+6. 🔒 Closed issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+7. ❗ Opened issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
