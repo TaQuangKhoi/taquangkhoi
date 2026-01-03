@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taquangkhoi&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TaQuangKhoi&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" /></a>
 </div>
   
 # 🤘 My Status
