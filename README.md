@@ -11,12 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=taquangkhoi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/taquangkhoi?label=Followers&style=social" alt="GitHub followers" />
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TaQuangKhoi&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" /></a>
-</div>
   
 # 🤘 My Status
 
