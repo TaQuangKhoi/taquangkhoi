@@ -94,10 +94,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TaQuangKhoi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=E5E7EB" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taquangkhoi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" alt="Top Languages" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=taquangkhoi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
