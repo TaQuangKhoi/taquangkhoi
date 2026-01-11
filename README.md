@@ -38,11 +38,11 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5727](https://github.com/web-scrobbler/web-scrobbler/pull/5727) in [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
-2. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649539390) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
-3. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649536389) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
-4. ❗ Opened issue [#1](https://github.com/BuiVanHoa/hi/issues/1) in [BuiVanHoa/hi](https://github.com/BuiVanHoa/hi)
-5. 🗣 Commented on [#4](https://github.com/oipoistar/tinta/issues/4#issuecomment-3625746224) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+1. 🗣 Commented on [#41](https://github.com/fcitx/fcitx5-unikey/issues/41#issuecomment-3734196297) in [fcitx/fcitx5-unikey](https://github.com/fcitx/fcitx5-unikey)
+2. 🎉 Merged PR [#5727](https://github.com/web-scrobbler/web-scrobbler/pull/5727) in [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
+3. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649539390) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
+4. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649536389) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
+5. ❗ Opened issue [#1](https://github.com/BuiVanHoa/hi/issues/1) in [BuiVanHoa/hi](https://github.com/BuiVanHoa/hi)
 6. 🔒 Closed issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
 7. ❗ Opened issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
 <!--END_SECTION:activity-->
