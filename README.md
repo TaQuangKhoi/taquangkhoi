@@ -38,13 +38,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2612](https://github.com/espanso/espanso/pull/2612#issuecomment-3771294426) in [espanso/espanso](https://github.com/espanso/espanso)
-2. 🗣 Commented on [#282](https://github.com/flathub/com.axosoft.GitKraken/issues/282#issuecomment-3734506593) in [flathub/com.axosoft.GitKraken](https://github.com/flathub/com.axosoft.GitKraken)
-3. 🗣 Commented on [#41](https://github.com/fcitx/fcitx5-unikey/issues/41#issuecomment-3734196297) in [fcitx/fcitx5-unikey](https://github.com/fcitx/fcitx5-unikey)
-4. 🎉 Merged PR [#5727](https://github.com/web-scrobbler/web-scrobbler/pull/5727) in [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
-5. 🗣 Commented on [#9015](https://github.com/streetwriters/notesnook/issues/9015#issuecomment-3649536389) in [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
-6. 🔒 Closed issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
-7. ❗ Opened issue [#4](https://github.com/oipoistar/tinta/issues/4) in [oipoistar/tinta](https://github.com/oipoistar/tinta)
+1. ℹ️ Labeled issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. ❗ Opened issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#4474](https://github.com/flameshot-org/flameshot/issues/4474#issuecomment-3773745940) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+4. 🗣 Commented on [#4464](https://github.com/flameshot-org/flameshot/issues/4464#issuecomment-3773703940) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+5. 🗣 Commented on [#2612](https://github.com/espanso/espanso/pull/2612#issuecomment-3771294426) in [espanso/espanso](https://github.com/espanso/espanso)
+6. 🗣 Commented on [#282](https://github.com/flathub/com.axosoft.GitKraken/issues/282#issuecomment-3734506593) in [flathub/com.axosoft.GitKraken](https://github.com/flathub/com.axosoft.GitKraken)
+7. 🗣 Commented on [#41](https://github.com/fcitx/fcitx5-unikey/issues/41#issuecomment-3734196297) in [fcitx/fcitx5-unikey](https://github.com/fcitx/fcitx5-unikey)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
