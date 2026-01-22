@@ -20,7 +20,6 @@
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
   - [Clagamex](https://github.com/TaQuangKhoi/Clagamex) - an Office add-in to make PowerPoint slide with Crossword puzzle game inside. To support my Chemistry teacher  
-  - [TaraFiFo](https://github.com/TaQuangKhoi/TaraFiFo) - Organize file in your computer. Try all my effort to integrate an AI to this software
 - 🫂 I'm contributing
   - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 - ☕ Buy me a Coffee : [https://ko-fi.com/taquangkhoi](https://ko-fi.com/taquangkhoi)
