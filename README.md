@@ -36,13 +36,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917#issuecomment-3776203552) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. ℹ️ Labeled issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❗ Opened issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#4474](https://github.com/flameshot-org/flameshot/issues/4474#issuecomment-3773745940) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-6. 🗣 Commented on [#4464](https://github.com/flameshot-org/flameshot/issues/4464#issuecomment-3773703940) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-7. 🗣 Commented on [#2612](https://github.com/espanso/espanso/pull/2612#issuecomment-3771294426) in [espanso/espanso](https://github.com/espanso/espanso)
+1. 🗣 Commented on [#5099](https://github.com/gitbutlerapp/gitbutler/issues/5099#issuecomment-3785909040) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#9082](https://github.com/gitbutlerapp/gitbutler/issues/9082#issuecomment-3785897122) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#10720](https://github.com/gitbutlerapp/gitbutler/issues/10720#issuecomment-3785889290) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🔒 Closed issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917#issuecomment-3776203552) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+6. ℹ️ Labeled issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+7. ❗ Opened issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
