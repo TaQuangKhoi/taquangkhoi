@@ -36,13 +36,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5099](https://github.com/gitbutlerapp/gitbutler/issues/5099#issuecomment-3785909040) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#9082](https://github.com/gitbutlerapp/gitbutler/issues/9082#issuecomment-3785897122) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#10720](https://github.com/gitbutlerapp/gitbutler/issues/10720#issuecomment-3785889290) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🔒 Closed issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917#issuecomment-3776203552) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-6. ℹ️ Labeled issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-7. ❗ Opened issue [#11917](https://github.com/gitbutlerapp/gitbutler/issues/11917) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. ❗ Opened issue [#8](https://github.com/TaQuangKhoi/apex-isle/issues/8) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
+2. ❗ Opened issue [#7](https://github.com/TaQuangKhoi/apex-isle/issues/7) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
+3. ❗ Opened issue [#6](https://github.com/TaQuangKhoi/apex-isle/issues/6) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
+4. ❗ Opened issue [#5](https://github.com/TaQuangKhoi/apex-isle/issues/5) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
+5. ❗ Opened issue [#4](https://github.com/TaQuangKhoi/apex-isle/issues/4) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
+6. ❗ Opened issue [#3](https://github.com/TaQuangKhoi/apex-isle/issues/3) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
+7. ❗ Opened issue [#2](https://github.com/TaQuangKhoi/apex-isle/issues/2) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
