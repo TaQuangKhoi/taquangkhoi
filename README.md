@@ -36,13 +36,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/upvpn/upvpn-app/issues/39) in [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app)
-2. ❗ Opened issue [#7](https://github.com/TaQuangKhoi/Napkin.one-Telegram-Chatbot/issues/7) in [TaQuangKhoi/Napkin.one-Telegram-Chatbot](https://github.com/TaQuangKhoi/Napkin.one-Telegram-Chatbot)
-3. ❗ Opened issue [#8](https://github.com/TaQuangKhoi/apex-isle/issues/8) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
-4. ❗ Opened issue [#7](https://github.com/TaQuangKhoi/apex-isle/issues/7) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
-5. ❗ Opened issue [#6](https://github.com/TaQuangKhoi/apex-isle/issues/6) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
-6. ❗ Opened issue [#5](https://github.com/TaQuangKhoi/apex-isle/issues/5) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
-7. ❗ Opened issue [#4](https://github.com/TaQuangKhoi/apex-isle/issues/4) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
+1. 🎉 Merged PR [#5](https://github.com/TaQuangKhoi/lensate/pull/5) in [TaQuangKhoi/lensate](https://github.com/TaQuangKhoi/lensate)
+2. 💪 Opened PR [#5](https://github.com/TaQuangKhoi/lensate/pull/5) in [TaQuangKhoi/lensate](https://github.com/TaQuangKhoi/lensate)
+3. ℹ️ Assigned PR [#5](https://github.com/TaQuangKhoi/lensate/pull/5) in [TaQuangKhoi/lensate](https://github.com/TaQuangKhoi/lensate)
+4. ❗ Opened issue [#39](https://github.com/upvpn/upvpn-app/issues/39) in [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app)
+5. ❗ Opened issue [#7](https://github.com/TaQuangKhoi/Napkin.one-Telegram-Chatbot/issues/7) in [TaQuangKhoi/Napkin.one-Telegram-Chatbot](https://github.com/TaQuangKhoi/Napkin.one-Telegram-Chatbot)
+6. ❗ Opened issue [#8](https://github.com/TaQuangKhoi/apex-isle/issues/8) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
+7. ❗ Opened issue [#7](https://github.com/TaQuangKhoi/apex-isle/issues/7) in [TaQuangKhoi/apex-isle](https://github.com/TaQuangKhoi/apex-isle)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
