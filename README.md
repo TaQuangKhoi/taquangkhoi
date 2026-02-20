@@ -19,7 +19,7 @@
 - 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
-  - [Clagamex](https://github.com/TaQuangKhoi/Clagamex) - an Office add-in to make PowerPoint slide with Crossword puzzle game inside. To support my Chemistry teacher  
+  - [Lensate](https://github.com/TaQuangKhoi/lensate) - A generic, configurable DOM translation extension — powered by your own AI API key.
 - 🫂 I'm contributing
   - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 - ☕ Buy me a Coffee : [https://ko-fi.com/taquangkhoi](https://ko-fi.com/taquangkhoi)
