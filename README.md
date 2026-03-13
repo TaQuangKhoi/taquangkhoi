@@ -36,13 +36,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/17) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
-2. 🗣 Commented on [#13](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/13#issuecomment-4005827095) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
-3. 🎉 Merged PR [#10](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/10) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
-4. 💪 Opened PR [#10](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/10) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
-5. ℹ️ Assigned PR [#10](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/10) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
-6. 🔒 Closed issue [#9](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/issues/9) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
-7. 🗣 Commented on [#9](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/issues/9#issuecomment-3998848640) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
+1. ❗ Opened issue [#1](https://github.com/dungz3us/valentine-2026/issues/1) in [dungz3us/valentine-2026](https://github.com/dungz3us/valentine-2026)
+2. ❌ Closed PR [#17](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/17) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
+3. 🗣 Commented on [#13](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/13#issuecomment-4005827095) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
+4. 🎉 Merged PR [#10](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/10) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
+5. 💪 Opened PR [#10](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/10) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
+6. ℹ️ Assigned PR [#10](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/pull/10) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
+7. 🔒 Closed issue [#9](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet/issues/9) in [TaQuangKhoi/full-featured-ecommerce-aspnet](https://github.com/TaQuangKhoi/full-featured-ecommerce-aspnet)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
