@@ -36,13 +36,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TaQuangKhoi/gitbutler/pull/1) in [TaQuangKhoi/gitbutler](https://github.com/TaQuangKhoi/gitbutler)
-2. 🗣 Commented on [#5](https://github.com/mskayyali/nodepad/issues/5#issuecomment-4206763305) in [mskayyali/nodepad](https://github.com/mskayyali/nodepad)
-3. 🗣 Commented on [#30](https://github.com/milla-jovovich/mempalace/issues/30#issuecomment-4205011558) in [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
-4. ❗ Opened issue [#13217](https://github.com/gitbutlerapp/gitbutler/issues/13217) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#1](https://github.com/TaQuangKhoi/nodepad/pull/1#issuecomment-4195901723) in [TaQuangKhoi/nodepad](https://github.com/TaQuangKhoi/nodepad)
-6. 🗣 Commented on [#6](https://github.com/mskayyali/nodepad/issues/6#issuecomment-4193626399) in [mskayyali/nodepad](https://github.com/mskayyali/nodepad)
-7. ❗ Opened issue [#6](https://github.com/mskayyali/nodepad/issues/6) in [mskayyali/nodepad](https://github.com/mskayyali/nodepad)
+1. 💪 Opened PR [#1](https://github.com/sotaworksvn/vina-doctor/pull/1) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+2. ℹ️ Assigned PR [#1](https://github.com/sotaworksvn/vina-doctor/pull/1) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+3. 💪 Opened PR [#1](https://github.com/TaQuangKhoi/gitbutler/pull/1) in [TaQuangKhoi/gitbutler](https://github.com/TaQuangKhoi/gitbutler)
+4. 🗣 Commented on [#5](https://github.com/mskayyali/nodepad/issues/5#issuecomment-4206763305) in [mskayyali/nodepad](https://github.com/mskayyali/nodepad)
+5. 🗣 Commented on [#30](https://github.com/MemPalace/mempalace/issues/30#issuecomment-4205011558) in [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+6. ❗ Opened issue [#13217](https://github.com/gitbutlerapp/gitbutler/issues/13217) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+7. 🗣 Commented on [#1](https://github.com/TaQuangKhoi/nodepad/pull/1#issuecomment-4195901723) in [TaQuangKhoi/nodepad](https://github.com/TaQuangKhoi/nodepad)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
