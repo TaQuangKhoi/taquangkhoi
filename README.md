@@ -36,13 +36,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/sotaworksvn/vina-doctor/pull/21) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
-2. 🎉 Merged PR [#22](https://github.com/sotaworksvn/vina-doctor/pull/22) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
-3. 💪 Opened PR [#22](https://github.com/sotaworksvn/vina-doctor/pull/22) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
-4. 💪 Opened PR [#21](https://github.com/sotaworksvn/vina-doctor/pull/21) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
-5. 🎉 Merged PR [#20](https://github.com/sotaworksvn/vina-doctor/pull/20) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
-6. 🎉 Merged PR [#19](https://github.com/sotaworksvn/vina-doctor/pull/19) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
-7. 💪 Opened PR [#19](https://github.com/sotaworksvn/vina-doctor/pull/19) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+1. 🎉 Merged PR [#23](https://github.com/sotaworksvn/vina-doctor/pull/23) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+2. ℹ️ Assigned PR [#23](https://github.com/sotaworksvn/vina-doctor/pull/23) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+3. 💪 Opened PR [#23](https://github.com/sotaworksvn/vina-doctor/pull/23) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+4. ❌ Closed PR [#21](https://github.com/sotaworksvn/vina-doctor/pull/21) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+5. 🎉 Merged PR [#22](https://github.com/sotaworksvn/vina-doctor/pull/22) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+6. 💪 Opened PR [#22](https://github.com/sotaworksvn/vina-doctor/pull/22) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+7. 💪 Opened PR [#21](https://github.com/sotaworksvn/vina-doctor/pull/21) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
