@@ -19,7 +19,7 @@
 - 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
-  - [Vina Doctor](https://github.com/TaQuangKhoi/vina-doctor) — AI-powered Vietnamese medical assistant, built for [Qwen AI Build Day](https://qwen-ai-build-day.devpost.com) 🏥
+  - ...
 - 🫂 I'm contributing
   - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 - ☕ Buy me a Coffee : [https://ko-fi.com/taquangkhoi](https://ko-fi.com/taquangkhoi)
@@ -31,6 +31,12 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaQuangKhoi)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 🏆 Projects
+
+- [Vina Doctor](https://github.com/TaQuangKhoi/vina-doctor) — AI-powered Vietnamese medical assistant, built for [Qwen AI Build Day](https://qwen-ai-build-day.devpost.com) 🏥
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
