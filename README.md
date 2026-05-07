@@ -42,13 +42,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TaQuangKhoi/install-cursor-desktop/issues/1#issuecomment-4350429921) in [TaQuangKhoi/install-cursor-desktop](https://github.com/TaQuangKhoi/install-cursor-desktop)
-2. ℹ️ Assigned issue [#1](https://github.com/TaQuangKhoi/install-cursor-desktop/issues/1) in [TaQuangKhoi/install-cursor-desktop](https://github.com/TaQuangKhoi/install-cursor-desktop)
-3. ❗ Opened issue [#1](https://github.com/TaQuangKhoi/install-cursor-desktop/issues/1) in [TaQuangKhoi/install-cursor-desktop](https://github.com/TaQuangKhoi/install-cursor-desktop)
-4. 🗣 Commented on [#4652](https://github.com/paperclipai/paperclip/issues/4652#issuecomment-4334060422) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-5. 🗣 Commented on [#3](https://github.com/paperclipai/paperclip/issues/3#issuecomment-4275900077) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-6. 💪 Opened PR [#121](https://github.com/sotaworksvn/vina-doctor/pull/121) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
-7. 🎉 Merged PR [#120](https://github.com/sotaworksvn/vina-doctor/pull/120) in [sotaworksvn/vina-doctor](https://github.com/sotaworksvn/vina-doctor)
+1. 🗣 Commented on [#4](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/4#issuecomment-4398711907) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+2. 🗣 Commented on [#4](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/4#issuecomment-4398655745) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+3. ❗ Opened issue [#4](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/4) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+4. 🗣 Commented on [#3](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/3#issuecomment-4398612145) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+5. 🗣 Commented on [#2](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/2#issuecomment-4398029164) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+6. 🗣 Commented on [#2](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/2#issuecomment-4397998126) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+7. 🗣 Commented on [#1](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/1#issuecomment-4397980333) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
